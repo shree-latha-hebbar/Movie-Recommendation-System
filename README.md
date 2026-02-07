@@ -28,7 +28,7 @@ The system uses a dataset containing:
 
 Technologies Used:
 
-Python
+->Python
 
 ->Tkinter (GUI)
 
