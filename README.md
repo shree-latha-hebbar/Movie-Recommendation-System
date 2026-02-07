@@ -13,3 +13,37 @@ Features
 ->Handles datasets of movies, users, and ratings.
 
 ->Can be extended to include content-based filtering, hybrid recommendations, or web deployment.
+
+Dataset
+
+The system uses a dataset containing:
+
+->userId: Unique ID of the user
+
+->movieId: Unique ID of the movie
+
+->title: Movie title
+
+->rating: User rating for the movie
+
+Technologies Used
+
+Python
+
+->Tkinter (GUI)
+
+->Pandas, NumPy (data handling)
+
+->Scikit-learn (recommendation algorithms)
+
+How It Works
+
+1.Load the dataset of users, movies, and ratings.
+
+2.Preprocess the data to create a user-movie matrix.
+
+3.Apply collaborative filtering to predict user preferences.
+
+4.Users input ratings through the Tkinter GUI.
+
+5.Generate a list of top recommended movies for the user.
