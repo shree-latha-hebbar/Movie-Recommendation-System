@@ -14,7 +14,7 @@ Features
 
 ->Can be extended to include content-based filtering, hybrid recommendations, or web deployment.
 
-Dataset
+Dataset:
 
 The system uses a dataset containing:
 
@@ -26,7 +26,7 @@ The system uses a dataset containing:
 
 ->rating: User rating for the movie
 
-Technologies Used
+Technologies Used:
 
 Python
 
