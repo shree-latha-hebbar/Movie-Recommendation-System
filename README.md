@@ -7,6 +7,9 @@ The Movie Recommendation System is a Python-based application that provides pers
 Features
 
 ->Personalized movie recommendations based on user ratings.
+
 ->Tkinter GUI for easy and interactive use.
+
 ->Handles datasets of movies, users, and ratings.
+
 ->Can be extended to include content-based filtering, hybrid recommendations, or web deployment.
